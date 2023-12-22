@@ -1,0 +1,31 @@
+species:
+ Bovine_1: 'Bovine_1'
+ Reindeer_1: 'Reindeer_1'
+ Human_1: 'Human_1'
+ Bovine_2: 'Bovine_2'
+ Reindeer_2: 'Reindeer_2'
+ Human_2: 'Human_2'
+ Bovine_3: 'Bovine_3'
+ Reindeer_3: 'Reindeer_3'
+ Human_3: 'Human_3'
+ Bovine_4: 'Bovine_4'
+ Reindeer_4: 'Reindeer_4'
+ Human_4: 'Human_4'
+
+bovine:
+ Bovine_1: 'Bovine_1'
+ Bovine_2: 'Bovine_2'
+ Bovine_3: 'Bovine_3'
+ Bovine_4: 'Bovine_4'
+
+human:
+ Human_1: 'Human_1'
+ Human_2: 'Human_2'
+ Human_3: 'Human_3'
+ Human_4: 'Human_4'
+
+reindeer:
+ Reindeer_1: 'Reindeer_1'
+ Reindeer_2: 'Reindeer_2'
+ Reindeer_3: 'Reindeer_3'
+ Reindeer_4: 'Reindeer_4'
