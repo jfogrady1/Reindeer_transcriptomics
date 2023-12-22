@@ -1,0 +1,11 @@
+# Ignore log files and temporary files
+ls .snakemake/*
+ls ./data/
+ls ./results/Alignment/
+ls ./results/Fastqc/
+ls ./results/Quantification/
+ls ./results/trimming/
+ls ./bin/sub*
+./Globin_mRNA_depletion.sh
+./Rplots.pdf
+./AGAT_eng.yml
